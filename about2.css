@@ -54,3 +54,9 @@ header{
 .menu-list-item{
     position: 56px;
 }
+img{
+    width: 800px;
+    border-radius: 55px 55px;
+    display: block;
+    box-shadow: 30px 30px 30px 5px rgb(64, 83, 255);
+}
